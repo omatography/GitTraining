@@ -9,5 +9,8 @@ public class GitTraining {
 		
 		int a=10, b=20;
 		System.out.println(a+b);
-	}
+		
+		String x="om",y="kar";
+		System.out.println(x+y);
+}
 }
