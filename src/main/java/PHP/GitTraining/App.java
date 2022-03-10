@@ -11,6 +11,6 @@ public class App
         System.out.println( "Welcome to Git World" );
         
         System.out.println( "Omkar" );
-        System.out.println( "Omkar" );
+        System.out.println( "Omkar Ramkumar" );
     }
 }
