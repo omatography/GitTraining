@@ -12,5 +12,8 @@ public class GitTraining {
 		
 		String x="om",y="kar";
 		System.out.println(x+y);
+		
+		System.out.println("my commit here");
+		System.out.println("my commit here");
 }
 }
